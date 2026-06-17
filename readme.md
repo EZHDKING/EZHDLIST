@@ -3,3 +3,6 @@
 http://ezhd.pages.dev/
 
 To submit your score to the list, create an issue on this github repo
+
+# LIST UPDATES:
+https://x.com/ezhdlist
